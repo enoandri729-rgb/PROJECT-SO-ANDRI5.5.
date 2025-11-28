@@ -4,9 +4,9 @@
 1. **Buka CMD**: Tekan `Win + R`, ketik `cmd`, dan tekan Enter.
 2. **Ubah Warna ke Hijau Matrix (0A)**:  
    Jalankan perintah berikut di CMD:  
-   ```
+   ---
    color 0A
-   ```  
+   ---  
    Ini mengatur latar belakang hitam (0) dan teks hijau terang (A), seperti efek Matrix.
 3. **Set Judul Custom**:  
    Jalankan:  
